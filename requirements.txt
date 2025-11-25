@@ -1,0 +1,11 @@
+streamlit-lottie
+pandas
+camelot-py
+langchain-text-splitters
+langchain-chroma
+langsmith
+streamlit
+python-dotenv
+langchain-community~=0.4.1
+langchain-openai~=1.0.3
+langchain-core~=1.1.0
